@@ -1,5 +1,7 @@
-streaamlit
+streamlit
 numpy
-matplotlib
+pandas
 scikit-learn
 scipy
+matplotlib
+rich>=13.0.0
