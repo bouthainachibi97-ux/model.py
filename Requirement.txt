@@ -1,0 +1,4 @@
+streaamlit
+numpy
+matplotlib
+scikit-learn
